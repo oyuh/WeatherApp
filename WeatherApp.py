@@ -35,8 +35,6 @@ def get_weather(city):
 
 root = tk.Tk()
 
-tk.title("Weather!")
-
 canvas = tk.Canvas(root, height=HEIGHT, width=WIDTH)
 canvas.pack()
 
